@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @code-sereti
-- 👀 I’m interested in ...Creating the best Android Apps
-- 🌱 I’m currently learning ...Mobile App Development and python
-- 💞️ I’m looking to collaborate on Android Projects
-- 📫 How to reach me ..What'sapp .+254702952885
+👋 Hello, I'm Sereti!
+🌟 Passionate Developer | Problem Solver | Tech Enthusiast
 
+💻 I specialize in building impactful Android applications that solve real-world challenges.
 
+🌱 Constantly learning and exploring new technologies.
+🤝 Open to collaborations on innovative projects.
+✨ Let's code the future together!
